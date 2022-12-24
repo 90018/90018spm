@@ -1,0 +1,4 @@
+course spm
+ltps=2020
+evensem 
+
